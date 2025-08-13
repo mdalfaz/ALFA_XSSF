@@ -33,4 +33,8 @@ pip install -r requirements.txt
 python3 xssfinder.py -u https://target.com
 
 ```
-<p align="center"> <a href="https://youtube.com/@alfaz_infosec" target="_blank"> <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white" alt="Subscribe on YouTube"/> </a> <a href="https://t.me/alfaz_infosec" target="_blank"> <img src="https://img.shields.io/badge/Telegram-Join%20Group-blue?logo=telegram&logoColor=white" alt="Join on Telegram"/> </a> </p> ```
+<p align="center"> <a href="https://youtube.com/@alfaz_infosec" target="_blank"> <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white" alt="Subscribe on YouTube"/> </a> <a href="https://t.me/alfaz_infosec" target="_blank"> <img src="https://img.shields.io/badge/Telegram-Join%20Group-blue?logo=telegram&logoColor=white" alt="Join on Telegram"/> </a> </p> 
+
+<img width="1228" height="714" alt="Screenshot 2025-08-14 001734" src="https://github.com/user-attachments/assets/7655cb80-1602-4dbd-8d39-850bb1644c2b" />
+
+```
