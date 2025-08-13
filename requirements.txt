@@ -1,0 +1,6 @@
+requests
+colorama
+beautifulsoup4
+selenium
+urllib3
+lxml
